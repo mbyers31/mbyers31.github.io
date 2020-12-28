@@ -1,7 +1,18 @@
-// Custom.css
+/*CUSTOM GLOBAL STYLE*/
 
-//overrides
-$body-bg: #000;
-$body-color: #111;
+body {
+  background-color: #000;
+  color: #fff;
+}
 
-@import "../node_modules/bootstrap/scss/bootstrap";
+a:link {
+  color: #A4C7DF;
+}
+
+a:visited {
+  color: #3D6E8F;
+}
+
+a:hover {
+  color: #45AAED;
+}
