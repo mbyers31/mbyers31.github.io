@@ -1,8 +1,8 @@
 /*CUSTOM GLOBAL STYLE*/
 
 body {
-  background-color: #000; !important
-  color: #fff; !important
+  background-color: #000 !important;
+  color: #fff !important;
 }
 
 a:link {
@@ -15,4 +15,12 @@ a:visited {
 
 a:hover {
   color: #45AAED;
+}
+
+.head {
+  background-color: #525252;
+}
+
+.head h1 {
+  color: #3921D4;
 }
