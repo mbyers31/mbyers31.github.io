@@ -3,6 +3,7 @@
 body {
   background-color: #000 !important;
   color: #fff !important;
+  position: relative;
 }
 
 a:link {
