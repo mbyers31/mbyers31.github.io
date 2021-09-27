@@ -1,28 +1,19 @@
 /*CUSTOM GLOBAL STYLE*/
 
 body {
-  background-color: #000 !important;
-  color: #fff !important;
+  background-color: #FEF1EB !important;
+  color: #000 !important;
   position: relative;
 }
 
 a:link {
-  color: #A4C7DF;
+  color: #DBCBD3;
 }
 
 a:visited {
-  color: #3D6E8F;
+  color: #B493A3;
 }
 
 a:hover {
-  color: #45AAED;
-}
-
-.head {
-  background-image: linear-gradient(#525252, #000);
-}
-
-.head h1 {
-  color: #fff;
-  font-family: "Times New Roman", Times, serif;
+  color: #F7F3F5;
 }
