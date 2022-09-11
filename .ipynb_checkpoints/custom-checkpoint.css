@@ -1,0 +1,25 @@
+/*CUSTOM GLOBAL STYLE*/
+
+body {
+  background-color: #FEF1EB !important;
+  color: #000 !important;
+  position: relative;
+}
+
+a:link {
+  color: #ABBAB3;
+}
+
+a:visited {
+  color: #849A90;
+}
+
+a:hover {
+  color: #E9EDEB;
+}
+
+about-body:img {
+    float: right;
+    width: 5em !important;
+    height: 5em;
+}
