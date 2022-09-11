@@ -31,6 +31,10 @@
     padding-bottom:1em;
 }
 
+#about {
+    width: 100%;
+}
+
 #spacer {
     height: 1em;
 }
