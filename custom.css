@@ -24,11 +24,11 @@
 
 #about img {
     float: left;
-    height: 75%;
-    width:30%;
+    height: 40%;
+    width: 15%;
     padding-left:1em;
     padding-right:1.5em;
-    padding-bottom:1em;
+    padding-top:5em;
 }
 
 #about {
